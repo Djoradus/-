@@ -105,4 +105,4 @@ while True:
 
     window.fill(white)
     draw_grid()
-    pygame.display.flip()
+    pygame.display.flip(),
